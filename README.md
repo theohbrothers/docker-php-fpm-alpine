@@ -10,9 +10,9 @@ Dockerized php with php extension(s), based on [official php images](https://hub
 
 | Tag | Dockerfile Build Context |
 |:-------:|:---------:|
-| `:8.4.2-fpm-alpine`, `:latest` | [View](variants/8.4.2-fpm-alpine) |
-| `:8.4.2-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets` | [View](variants/8.4.2-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets) |
-| `:8.4.2-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets-xdebug` | [View](variants/8.4.2-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets-xdebug) |
+| `:8.4.3-fpm-alpine`, `:latest` | [View](variants/8.4.3-fpm-alpine) |
+| `:8.4.3-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets` | [View](variants/8.4.3-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets) |
+| `:8.4.3-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets-xdebug` | [View](variants/8.4.3-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets-xdebug) |
 | `:8.3.15-fpm-alpine` | [View](variants/8.3.15-fpm-alpine) |
 | `:8.3.15-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets` | [View](variants/8.3.15-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets) |
 | `:8.3.15-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets-xdebug` | [View](variants/8.3.15-fpm-alpine-opcache-mysqli-gd-pdo-memcached-sockets-xdebug) |
